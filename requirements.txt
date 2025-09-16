@@ -1,0 +1,8 @@
+# Minimal requirements for TFM-main
+
+
+numpy
+scipy
+opencv-python
+scikit-image
+tqdm
