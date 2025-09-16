@@ -15,7 +15,7 @@ def get_color(idx):
 
 
 def main():
-    input_video = "Project 2.0/In1.avi"
+    input_video = "TFM-main/In1.avi"
     output_video = "output_tracked35.mp4"
     output_csv = "trajectories.csv"
 
